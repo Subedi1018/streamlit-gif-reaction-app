@@ -13,9 +13,23 @@ The Real-Time GIF Reaction Generator is a Streamlit web application that analyze
 - **Transformers**: Library for natural language processing and emotion detection.
 - **Giphy API**: For fetching GIFs based on user emotions.
 
-## Installation
-To run this app locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Subedi1018/streamlit-gif-reaction-app.git
+Usage:
+   Open the app in your browser.
+   Type in how you're feeling in the input box.
+   Click on "Analyze Emotion" to get a GIF that matches your emotion.
+   Use the "Get Another GIF" button to refresh the GIF.
+   Contributing
+   Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements.
+
+Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgements:
+
+   Hugging Face Transformers
+   Giphy API
+   Streamlit
